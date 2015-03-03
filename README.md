@@ -1,12 +1,12 @@
 DatePickerWheel  v1.0
 ==================
-[Image](capture/screen.png)
+![Image](capture/screen.png)
 
-Library base in [android-wheel-datepicker](https://bitbucket.org/igor_kostromin/android-wheel-datepicker/wiki/Home)
+Library base in ![android-wheel-datepicker](https://bitbucket.org/igor_kostromin/android-wheel-datepicker/wiki/Home)
 
 # How to use
 
-Download the [library DatePickerWheel](DatePickerWheel-v1.0.aar) and import how module in Android Studio, then add to dependencies.
+Download the ![library DatePickerWheel](DatePickerWheel-v1.0.aar) and import how module in Android Studio, then add to dependencies.
 
 # In a dialog:
 
